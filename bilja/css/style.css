@@ -1,0 +1,67 @@
+body {
+  background-color: #94618e;
+  color: #f8eee7;
+  margin: 0; 
+}
+
+.navBar {
+  padding: 0 150px; 
+  padding-top: 10px;
+  background-color: #49274a;
+  height: 60px;
+}
+
+a {
+  color: #f8eee7;
+  text-decoration: none; 
+  font-size: 18px;
+  margin-right: 20px;
+}
+
+.aktivanLink {
+  color: #94618e;
+}
+
+.text {
+  padding: 0 150px;
+}
+
+h1 {
+  margin-top: 60px;
+  margin-bottom: 30px;
+  font-size: 36px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+p {
+  font-size: 20px;
+}
+
+hr {
+  margin-bottom: 30px;
+  background-color: #f8eee7;
+  height: 2px;
+  opacity: 1; 
+}
+
+img {
+  width: 600px;
+  height: 380px;
+}
+
+.slike {
+  
+  display: flex;
+  justify-content: center;
+}
+
+.slike2 {
+  
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
